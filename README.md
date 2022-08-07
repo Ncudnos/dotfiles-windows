@@ -24,6 +24,8 @@ irm get.scoop.sh | iex
 scoop install python && scoop install git && scoop install oh-my-posh && scoop install nvm && scoop install sudo && nvm install lts && sudo nvm use lts
 
 scoop bucket add java && scoop install openjdk && scoop install gcc && scoop install neovim
+
+Install-Module -Name Terminal-Icons
 ```
 
 - Set the PROFILE files:
