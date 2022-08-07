@@ -49,3 +49,6 @@ oh-my-posh init pwsh --config ~/ohmyposh.omp.json | Invoke-Expression
 ```
 .$PROFILE
 ```
+
+3. Result:
+![image](./images/image.png)
