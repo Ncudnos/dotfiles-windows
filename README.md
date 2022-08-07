@@ -11,6 +11,7 @@
 1. Download the Terminal
 - Using Windows Store to install "Windows Terminal" and "Powershell"
 - Set new Powershell as the default
+- Install [Nerdfont](https://www.nerdfonts.com/) and set to default font in the Terminal
 - Start Windows Terminal
 
 2. Setup
