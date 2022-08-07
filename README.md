@@ -44,8 +44,9 @@ nvim $PROFILE
 
 oh-my-posh init pwsh --config ~/ohmyposh.omp.json | Invoke-Expression
 
-# Change `~/ohmyposh.omp.json` to the path that you want to put the `ohmyposh.omp.json`
 ```
+> Change `~/ohmyposh.omp.json` to the path that you want to put the `ohmyposh.omp.json`
+
   - From Powershell
 ```
 .$PROFILE
